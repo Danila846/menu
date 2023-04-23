@@ -1,9 +1,9 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Menu from './Components/Menu';
-import DriftPage from './Pages/Drift';
-import ForzaPage from './Pages/Forza';
-import HomePage from './Pages/Home';
-import TimeAttackPage from './Pages/TimeAttack';
+import DriftPage from './Pages/DriftPage';
+import ForzaPage from './Pages/ForzaPage';
+import HomePage from './Pages/HomePage';
+import TimeAttackPage from './Pages/TimeAttackPage';
 import './App.css';
 
 function App() {
